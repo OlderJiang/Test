@@ -1,0 +1,7 @@
+apple 5
+banana 1
+apple 5
+pear 5
+apple 2
+tomato 3
+banana 2
